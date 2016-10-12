@@ -4,7 +4,7 @@
 - Second Item
 - Third Item
 
-Checklist
-[] First task  
-[] Second task  
-[] Third task  
+Checklist  
+[x] First task  
+[x] Second task  
+[x] Third task  
