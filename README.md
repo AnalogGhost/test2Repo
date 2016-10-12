@@ -9,6 +9,10 @@ Checklist
 - [x] Second task  
 - [x] Third task  
 
+```
+ var x = "x";
+```
+
 ```javascript
  var x = "x";
 ```
