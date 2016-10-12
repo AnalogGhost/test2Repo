@@ -5,6 +5,6 @@
 - Third Item
 
 Checklist
-[ ] First task
-[ ] Second task
-[ ] Third task
+[] First task  
+[] Second task  
+[] Third task  
