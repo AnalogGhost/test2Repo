@@ -16,3 +16,16 @@ Checklist
 ```javascript
  var x = "x";
 ```
+
+```
+<html>
+
+</html>
+```
+
+```html
+
+<html>
+<head></head>
+</html>
+```
