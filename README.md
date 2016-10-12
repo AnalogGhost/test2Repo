@@ -6,8 +6,8 @@
 
 Checklist  
 - [x] First task  
-- [x] Second task  
-- [x] Third task  
+- [ ] Second task  
+- [ ] Third task  
 
 ```
  var x = "x";
